@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.jasajatim.my.id/</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/logo-situs-jasa-jatim.png</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-promosi-jasa-jatim.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-iklan-jasa-jatim.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-promo-jasa-jatim.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-utama-jasa-jatim.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/NPWP.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/SPT.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/NIB.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/CV.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/PT.webp</image:loc>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-pendirian-lembaga-jasa-jatim.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/izin-usaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-izin-usaha-jasa-jatim.webp</image:loc>
+      <image:loc></image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/pendirian-lembaga</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-pendirian-lembaga-jasa-jatim.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/foto-klien</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-foto-klien-jasa-jatim.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/koleksi-kbli</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-koleksi-kbli-jasa-jatim.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-blog-jasa-jatim.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- artikel -->
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/akta-cv-untuk-pasutri</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/akta-cv-untuk-pasutri.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ancang-ancang-sebelum-impor-barang</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ancang-ancang-sebelum-impor-barang.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/arti-ltd-pada-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/arti-ltd-pada-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/asal-usul-virtual-office</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/asal-usul-virtual-office.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/batas-pengurusan-spt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/batas-pengurusan-spt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/berkas-pengajuan-siup-perorangan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/berkas-pengajuan-siup-perorangan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/bolehkah-rups-tanpa-rapat</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/bolehkah-rups-tanpa-rapat.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/cara-mendirikan-persekutuan-komanditer-cv</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/cara-mendirikan-persekutuan-komanditer-cv.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/cara-mudah-buat-cv-online-melalui-sistem-ahu-online</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/cara-mudah-buat-cv-online-melalui-sistem-ahu-online.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/definisi-iumk</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/definisi-iumk.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/deskripsi-cv-persekutuan-komanditer</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/deskripsi-cv-persekutuan-komanditer.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/dokumen-vital-pelaku-ekspor</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/dokumen-vital-pelaku-ekspor.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/faedah-memiliki-legalitas-usaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/faedah-memiliki-legalitas-usaha.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/faedah-merek-dagang</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/faedah-merek-dagang.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/fase-akuisisi-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/fase-akuisisi-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/izin-lingkungan-oss</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/izin-lingkungan-oss.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/izin-usaha-jasa-konstruksi-asing</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/izin-usaha-jasa-konstruksi-asing.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/jalur-profit-untuk-yayasan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/jalur-profit-untuk-yayasan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/jangan-nekat-membuat-cv-sebelum-tahu-resikonya</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/jangan-nekat-membuat-cv-sebelum-tahu-resikonya.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/kamus-ringkas-seputar-usaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/kamus-ringkas-seputar-usaha.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/kategorisasi-bentuk-badan-usaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/kategorisasi-bentuk-badan-usaha.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ketergantungan-jasa-konstruksi-kepada-siujk</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ketergantungan-jasa-konstruksi-kepada-siujk.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/keunggulan-domisili-virtual-office-serta-kelemahannya</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/keunggulan-domisili-virtual-office-serta-kelemahannya.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/kewajiban-mengurus-bpjs-tk-dan-bpjs-kesehatan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/kewajiban-mengurus-bpjs-tk-dan-bpjs-kesehatan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/klasifikasi-siup-berdasarkan-modal</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/klasifikasi-siup-berdasarkan-modal.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/kupas-tuntas-izin-usaha-industri</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/kupas-tuntas-izin-usaha-industri.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/langkah-legalisasi-perkumpulan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/langkah-legalisasi-perkumpulan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/langkah-vital-pendirian-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/langkah-vital-pendirian-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/larangan-pns-berwirausaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/larangan-pns-berwirausaha.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/legalkan-perusahaan-anda</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/legalkan-perusahaan-anda.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/manuver-setelah-akta-pt-keluar</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/manuver-setelah-akta-pt-keluar.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/memperluas-peluang-bisnis-dengan-izin-impor</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/memperluas-peluang-bisnis-dengan-izin-impor.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/mengelola-perizinan-pt-tanpa-ribet</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/mengelola-perizinan-pt-tanpa-ribet.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/modal-pokok-mendirikan-yayasan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/modal-pokok-mendirikan-yayasan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/modernisasi-oss-versi-1-1</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/modernisasi-oss-versi-1-1.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/modifikasi-anggaran-dasar-pt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/modifikasi-anggaran-dasar-pt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/olshop-ajukan-izin-usaha</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/olshop-ajukan-izin-usaha.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/order-nama-pt-dan-peraturannya</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/order-nama-pt-dan-peraturannya.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pajak-umkm-bergeser-0-5-persen</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pajak-umkm-bergeser-0-5-persen.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/panduan-mengelola-izin-usaha-kontraktor</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/panduan-mengelola-izin-usaha-kontraktor.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pasutri-mendirikan-pt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pasutri-mendirikan-pt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/patenkan-brand-dagang</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/patenkan-brand-dagang.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/patokan-penunjukan-direksi-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/patokan-penunjukan-direksi-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pedoman-mengurus-siup-komplet</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pedoman-mengurus-siup-komplet.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pemahaman-izin-usaha-jasa-konstruksi-iujk</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pemahaman-izin-usaha-jasa-konstruksi-iujk.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pembaharuan-data-npwp</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pembaharuan-data-npwp.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pembubaran-cv-dan-perubahan-anggaran-dasar</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pembubaran-cv-dan-perubahan-anggaran-dasar.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pemegang-saham-tunggal-pt-apa-mungkin</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pemegang-saham-tunggal-pt-apa-mungkin.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pemindahan-hak-saham-uupt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pemindahan-hak-saham-uupt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/penafsiran-modal-dasar-dan-modal-disetor</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/penafsiran-modal-dasar-dan-modal-disetor.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pengajuan-izin-peer-to-peer-lending</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pengajuan-izin-peer-to-peer-lending.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pengertian-firma-dan-cara-mendirikannya</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pengertian-firma-dan-cara-mendirikannya.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pengkajian-imb-izin-mendirikan-bangunan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pengkajian-imb-izin-mendirikan-bangunan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pengurusan-cv-dengan-domisili-virtual-office</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pengurusan-cv-dengan-domisili-virtual-office.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pentingnya-memiliki-izin-usaha-mikro-kecil-iumk</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pentingnya-memiliki-izin-usaha-mikro-kecil-iumk.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pentingnya-pemilihan-domisili-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pentingnya-pemilihan-domisili-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/peraturan-rekrutmen-berdasarkan-uu-ketenagakerjaan-indonesia</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/peraturan-rekrutmen-berdasarkan-uu-ketenagakerjaan-indonesia.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/perbedaan-ormas-dan-perkumpulan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/perbedaan-ormas-dan-perkumpulan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/perbedaan-pendiri-pt-dan-pemegang-saham</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/perbedaan-pendiri-pt-dan-pemegang-saham.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/perbedaan-pmdn-dan-pma</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/perbedaan-pmdn-dan-pma.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/perbedaan-yayasan-dan-perkumpulan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/perbedaan-yayasan-dan-perkumpulan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/persepsi-pengusaha-kena-pajak-pkp</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/persepsi-pengusaha-kena-pajak-pkp.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/perusahaan-caplok-nama-asing</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/perusahaan-caplok-nama-asing.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/pt-lokal-wajib-membuat-lkpm</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/pt-lokal-wajib-membuat-lkpm.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ragam-izin-usaha-dan-definisinya</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ragam-izin-usaha-dan-definisinya.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/registrasi-akta-pendirian-persekutuan-komanditer</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/registrasi-akta-pendirian-persekutuan-komanditer.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/registrasi-merek-dagang</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/registrasi-merek-dagang.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/rintis-izin-usaha-via-biro-jasa</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/rintis-izin-usaha-via-biro-jasa.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/siasat-seleksi-nama-pt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/siasat-seleksi-nama-pt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/sistematis-pendirian-koperasi-simpan-pinjam</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/sistematis-pendirian-koperasi-simpan-pinjam.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/skdp-dihapuskan-apa-harus-urus-izin-lokasi</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/skdp-dihapuskan-apa-harus-urus-izin-lokasi.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/syarat-mutlak-pendirian-pt-perseroan-terbatas</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/syarat-mutlak-pendirian-pt-perseroan-terbatas.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/tatanan-setoran-modal-pt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/tatanan-setoran-modal-pt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/teknik-perbaikan-akta-perusahaan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/teknik-perbaikan-akta-perusahaan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ternyata-virtual-office-bisa-untuk-pkp</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ternyata-virtual-office-bisa-untuk-pkp.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/trik-membuat-npwp-karyawan</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/trik-membuat-npwp-karyawan.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/trik-memilih-notaris</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/trik-memilih-notaris.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/tuntutan-wajib-jasa-konstruksi</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/tuntutan-wajib-jasa-konstruksi.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ulasan-persekutuan-perdata</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ulasan-persekutuan-perdata.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ulasan-pph-final-umkm</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ulasan-pph-final-umkm.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ulasan-surat-izin-usaha-perdagangan-siup</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ulasan-surat-izin-usaha-perdagangan-siup.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/ulasan-surat-pernyataan-pengelolaan-lingkungan-sppl</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/ulasan-surat-pernyataan-pengelolaan-lingkungan-sppl.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/umkm-bermitra-dengan-investor</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/umkm-bermitra-dengan-investor.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/unsur-penting-pengisian-oss</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/unsur-penting-pengisian-oss.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/urus-legalisasi-usaha-kini-lebih-cepat</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/urus-legalisasi-usaha-kini-lebih-cepat.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/usaha-dagang-menjadi-ud</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/usaha-dagang-menjadi-ud.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/vitalnya-lkpm-di-oss</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/vitalnya-lkpm-di-oss.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/vitalnya-mempunyai-ska-kta-dan-skt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/vitalnya-mempunyai-ska-kta-dan-skt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.jasajatim.my.id/blog/wajibkah-yayasan-membayar-pajak</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/artikel/wajibkah-yayasan-membayar-pajak.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- layanan -->
+  <url>
+    <loc>https://www.jasajatim.my.id/layanan/jasa-pengurusan-pirt</loc>
+    <image:image>
+      <image:loc>https://www.jasajatim.my.id/aset/gambar/layanan/jasa-pengurusan-pirt.webp</image:loc>
+    </image:image>
+    <lastmod>2025-09-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+</urlset>
+
+
