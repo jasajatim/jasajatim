@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    // 2. Pengalihan dari Vercel.app ke Domain Kustom (wajib 308/Permanent)
+    {
+      "source": "/(.*)",
+      "destination": "https://www.jasajatim.my.id/$1",
+      "permanent": true
+    },
+
+    // 3. Menghapus /index.html dari Halaman Utama
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+
+    // 4. Menghapus /index.html dari Halaman Blog
+    {
+      "source": "/blog/index.html",
+      "destination": "/blog",
+      "permanent": true
+    },
+
+    // 5. Menghapus /index.html dari Halaman Layanan
+    {
+      "source": "/layanan/index.html",
+      "destination": "/layanan",
+      "permanent": true
+    }
+  ],
+
+  // 1. URL Bersih: Menggunakan "cleanUrls" untuk SEO yang lebih baik
+  "cleanUrls": true
+}
