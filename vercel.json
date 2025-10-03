@@ -3,7 +3,13 @@
     {
       "source": "/(.*)",
       "destination": "https://www.jasajatim.my.id/$1",
-      "permanent": true
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "jasajatim.vercel.app"
+        }
+      ]
     },
     {
       "source": "/index.html",
