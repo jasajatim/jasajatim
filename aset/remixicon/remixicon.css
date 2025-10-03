@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "remixicon";
+  src: url('remixicon.eot?t=1590207869815');
+  src: url('remixicon.eot?t=1590207869815#iefix') format('embedded-opentype'),
+  url("remixicon.woff2?t=1590207869815") format("woff2"),
+  url("remixicon.woff?t=1590207869815") format("woff"),
+  url('remixicon.ttf?t=1590207869815') format('truetype'),
+  url('remixicon.svg?t=1590207869815#remixicon') format('svg');
+  font-display: swap;}
+
+[class^="ri-"], [class*=" ri-"] {
+  font-family: 'remixicon' !important;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;}
+
+.ri-arrow-up-line:before{content: "\ea76";}
+.ri-check-double-line:before{content: "\eb79";}
+.ri-coins-fill:before{content: "\ebb3";}
+.ri-customer-service-2-fill:before{content: "\ec0b";}
+.ri-direction-fill:before{content: "\ec33";}
+.ri-facebook-circle-fill:before{content: "\ecba";}
+.ri-instagram-fill:before{content: "\ee65";}
+.ri-mail-unread-fill:before{content: "\ef01";}
+.ri-map-pin-fill:before{content: "\ef13";}
+.ri-phone-fill:before{content: "\efe9";}
+.ri-service-fill:before{content: "\f0e1";}
+.ri-store-2-fill:before{content: "\f1a4";}
+.ri-telegram-fill:before{content: "\f1ef";}
+.ri-thumb-up-fill:before{content: "\f206";}
+.ri-twitter-fill:before{content: "\f23a";}
+.ri-whatsapp-fill:before{content: "\f2bb";}
+.ri-youtube-fill:before{content: "\f2d4";}
+.ri-linkedin-fill:before{content:"\eeb5";}
+.ri-pinterest-fill:before{content:"\efff";}
+
+.ri-at-line:before{content:"\ea83";}
+.ri-home-2-fill:before{content:"\ee18";}
+.ri-file-text-fill:before{content:"\ed0e";}
+.ri-star-half-fill:before{content:"\f187";}
+.ri-mail-fill:before{content:"\eef3";}
+
+.ri-arrow-right-circle-fill:before{content:"\ea67";}
+.ri-arrow-left-circle-fill:before{content:"\ea5b";}
