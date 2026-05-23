@@ -1,32 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-
   <url>
     <loc>https://www.jasajatim.my.id/</loc>
     <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/logo-situs-jasa-jatim.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-promosi-jasa-jatim.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-iklan-jasa-jatim.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/background-promo-jasa-jatim.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-utama-jasa-jatim.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/NPWP.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/SPT.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/NIB.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/CV.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/PT.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-pendirian-lembaga-jasa-jatim.webp</image:loc>
     </image:image>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
-
   <url>
     <loc>https://www.jasajatim.my.id/izin-usaha</loc>
     <image:image>
       <image:loc>https://www.jasajatim.my.id/aset/gambar/utama/halaman-izin-usaha-jasa-jatim.webp</image:loc>
-      <image:loc></image:loc>
     </image:image>
     <lastmod>2025-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
