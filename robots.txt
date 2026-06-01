@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: 
 Sitemap: https://www.jasajatim.my.id/sitemap.xml
-
-
+Sitemap: https://www.jasajatim.my.id/sitemaps.xml
