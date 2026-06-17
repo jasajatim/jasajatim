@@ -1,2 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<test>ok</test>
+<urlset xmlns="http://sitemaps.org">
+   <url>
+      <loc>https://www.jasajatim.my.id</loc>
+      <lastmod>2026-06-15</lastmod>
+      <changefreq>daily</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://www.jasajatim.my.id/izin-usaha</loc>
+      <lastmod>2026-05-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://www.jasajatim.my.id/pendirian-lembaga</loc>
+      <lastmod>2026-05-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+  <url>
+      <loc>https://www.jasajatim.my.id/foto-klien</loc>
+      <lastmod>2026-05-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://www.jasajatim.my.id/koleksi-kbli</loc>
+      <lastmod>2026-05-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://www.jasajatim.my.id/blog</loc>
+      <lastmod>2026-05-20</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>
